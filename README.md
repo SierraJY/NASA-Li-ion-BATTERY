@@ -1,5 +1,6 @@
 ## NASA Lithium-ion Battery SoH Prediction
-![nasa_logo](https://github.com/SierraJY/NASA-Li-ion-BATTERY/DATA/RAW/nasa_log.png)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/2449px-NASA_logo.svg.png" width=230 height=200/>
 
 ### Description
 - "Machine Learning-Based Lithium-Ion Battery Capacity Estimation Exploiting Multi-Channel Charging Profiles"논문 리프로덕션 입니다
