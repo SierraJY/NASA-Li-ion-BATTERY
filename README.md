@@ -12,5 +12,5 @@
 ### Directorys & Files
 - DATA/RAW : raw data (**.mat** files)
 - DATA/DataFrame : extracted charge and capacity data ( **.csv** files )
-- BEST_MODEL : parameters of best models ( ** .pt ** files)
+- BEST_MODEL : parameters of best models ( **.pt** files)
 - PREDICT : prediction of B0005's capacity
