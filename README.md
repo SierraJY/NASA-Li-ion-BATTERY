@@ -9,6 +9,7 @@
 - Data from **NASA PCoE**(https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/)
 - Framework : **PyTorch**
 - model type : FNN / CNN / LSTM / Bi-LSTM / Multie-head Attention
+- Use **charging** datas and capacity data
 
 
 ### Directorys & Files
