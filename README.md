@@ -19,3 +19,8 @@
 - PREDICT : prediction of B0005's capacity
 - SC_Models_training : training Models using voltage data only (single-channel)
 - MC_Models_training : training Models using voltage, current, temperature (multie-channel)
+
+
+### Conclusion
+<img src="./output1.png">
+<img src="./output2.png">
