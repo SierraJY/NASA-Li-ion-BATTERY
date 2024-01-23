@@ -17,8 +17,8 @@
 - DATA/DataFrame : extracted charge and capacity data ( **.csv** files )
 - BEST_MODEL : parameters of best models ( **.pt** files)
 - PREDICT : prediction of B0005's capacity
-- SC_Models_training : training Models using voltage data only (single-channel)
-- MC_Models_training : training Models using voltage, current, temperature (multie-channel)
+- Train_SC_Models : training Models using voltage data only (single-channel)
+- Train_MC_Models : training Models using voltage, current, temperature (multi-channel)
 
 
 ### 📌 Conclusion
