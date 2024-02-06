@@ -22,5 +22,5 @@
 
 
 ### 📌 Conclusion
-<img src="./output1.png">
-<img src="./output2.png">
+<img src="./output_1C.png">
+<img src="./output_MC.png">
