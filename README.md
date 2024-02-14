@@ -1,5 +1,5 @@
 ## NASA Lithium-ion Battery SoH Prediction
-### latest version : 2024/02/04 by JuYeon
+### latest version : 2024/02/14 by JuYeon
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/2449px-NASA_logo.svg.png" width=230 height=200/>
 
