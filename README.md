@@ -19,7 +19,6 @@
 - PREDICT : prediction of B0005's capacity
 - Train_SCModels : training Models using B0006/B0007/B0018's voltage data only & Predict B0005's capacity (single-channel)
 - Train_MCModels : training Models using B0006/B0007/B0018's voltage, current, temperature & Predict B0005's capacity (multi-channel)
-- Train_Other_MCModels : Predict Other Cells (EX: train B0005/B0007/B0018 & Predict B0006)
 
 
 
